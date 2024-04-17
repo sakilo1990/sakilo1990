@@ -1,7 +1,7 @@
 # sakilo1990
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDczd3A4bnU1eHk3NndzNGdieHdmcnFjdWN3YnNsNzJ3MmtjNDVtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="1000"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDczd3A4bnU1eHk3NndzNGdieHdmcnFjdWN3YnNsNzJ3MmtjNDVtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="500"/>
 </div>
 
 ### 👨🏻‍💻 &nbsp;About Me
