@@ -1,6 +1,8 @@
 # sakilo1990
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<div id="header" align="center">
+  <img src="https://giphy.com/embed/JqmupuTVZYaQX5s094" width="100"/>
+</div>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
