@@ -13,6 +13,13 @@
 
 ---
 
+### 📫 &nbsp;Let's Chat!
+
+<a href="https://www.linkedin.com/in/yves-fran%C3%A7ois-rivard-95018011b/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:yves@entrostat.com"><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" /></a> &nbsp;
+
+---
+
 ### ⭐ &nbsp;GitHub Statistics:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakilo1990&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"  alt="GitHub Statistics"/>
@@ -112,10 +119,3 @@ Add me on steam 23742349 😉.
 ![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=flat&logo=SquareEnix&logoColor=white) &nbsp;
 ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=flat&logo=Ubisoft&logoColor=black) &nbsp;
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) &nbsp;
-
----
-
-### 📫 &nbsp;Get in Touch
-
-<a href="https://www.linkedin.com/in/yves-fran%C3%A7ois-rivard-95018011b/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:yves@entrostat.com"><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" /></a> &nbsp;
