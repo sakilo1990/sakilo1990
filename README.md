@@ -31,8 +31,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sakilo1990&theme=transparent&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakilo1990)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ### 🛠 &nbsp;Tech Stack
