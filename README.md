@@ -1,7 +1,7 @@
 # sakilo1990
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/JqmupuTVZYaQX5s094" width="100"/>
+  <iframe src="https://giphy.com/embed/JqmupuTVZYaQX5s094" width="480" height="344" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div>
 
 ### 👨🏻‍💻 &nbsp;About Me
