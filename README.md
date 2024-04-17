@@ -2,11 +2,6 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDczd3A4bnU1eHk3NndzNGdieHdmcnFjdWN3YnNsNzJ3MmtjNDVtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="400"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/yves-fran%C3%A7ois-rivard-95018011b/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
 </div>
 
 ### 👨🏻‍💻 &nbsp;About Me
