@@ -50,7 +50,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) &nbsp;
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) &nbsp;
 ![Vue.JS](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=white) &nbsp;
-![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=flat&logo=nuxt.js&logoColor=white) &nbsp;
+![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82) &nbsp;
 
 #### Databases
 
@@ -76,7 +76,7 @@
 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) &nbsp;
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) &nbsp;
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) &nbsp;
+![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white) &nbsp;
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white) &nbsp;
 
 #### IDEs & Text Editing
