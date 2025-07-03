@@ -38,10 +38,10 @@
 
 #### AI Stack
 
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)] &nbsp;
-[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)] &nbsp;
-[![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)] &nbsp;
-[![v0](https://img.shields.io/badge/v0-000?logo=v0&logoColor=fff)] &nbsp;
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white) &nbsp;
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff) &nbsp;
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff) &nbsp;
+![v0](https://img.shields.io/badge/v0-000?logo=v0&logoColor=fff) &nbsp;
 
 #### Frameworks
 
