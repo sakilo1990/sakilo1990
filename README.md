@@ -27,12 +27,6 @@
 
 ---
 
-### ⭐ &nbsp;GitHub Statistics:
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sakilo1990)](https://git.io/streak-stats)
-
----
-
 ### 🛠 &nbsp;Tech Stack
 
 #### Programming Languages
