@@ -34,6 +34,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) &nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) &nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) &nbsp;
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white) &nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) &nbsp;
 
 #### AI Stack
@@ -53,11 +54,10 @@
 
 #### Databases
 
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff) &nbsp;
 ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) &nbsp;
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) &nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white) &nbsp;
 ![MySQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) &nbsp;
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) &nbsp;
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) &nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) &nbsp;
 
@@ -72,17 +72,18 @@
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white) &nbsp;
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) &nbsp;
 
-#### Cloud Platforms
+#### Cloud
 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) &nbsp;
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) &nbsp;
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) &nbsp;
-![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=flat&logo=DigitalOcean&logoColor=white) &nbsp;
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white) &nbsp;
 
-#### IDEs
+#### IDEs & Text Editing
 
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=WebStorm&logoColor=white) &nbsp;
 ![PHPStorm](http://img.shields.io/badge/-PHPStorm-181717?style=flat&logo=phpstorm&logoColor=white) &nbsp;
+![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff) &nbsp;
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat&logo=vim&logoColor=white) &nbsp;
 ![SublimeText](https://img.shields.io/badge/sublime_text-%23575757.svg?style=flat&logo=sublime-text&logoColor=important) &nbsp;
 
